@@ -16,7 +16,7 @@ A full-featured Gemini (ChatGPT-style) clone built using **React + Vite**, power
 ---
 
 ## 📁 Project Structure
-
+```text
 gemini-clone/
 ├── public/                   # Static assets (favicon, etc.)
 ├── src/
@@ -36,7 +36,7 @@ gemini-clone/
 ├── package.json
 ├── README.md
 ├── vite.config.js
-
+```
 ---
 
 ## 🧪 Getting Started
