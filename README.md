@@ -11,7 +11,7 @@ A full-featured Gemini (ChatGPT-style) clone built using **React + Vite**, power
 - 🎨 Responsive UI with predefined prompt cards
 - 🗨️ Simulated response streaming with typewriter effect
 - 💬 Context-based state management using React Context API
-- 🌐 Deployed on [Vercel](https://vercel.com/)
+- 🌐 Deployed on [Vercel](https://gemini-clone-nityananda.vercel.app/)
 
 ---
 
